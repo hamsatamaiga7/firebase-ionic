@@ -1,0 +1,7 @@
+{
+  "name": "APPfil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

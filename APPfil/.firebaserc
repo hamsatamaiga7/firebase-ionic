@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "appionic-eebd7": {
+      "hosting": {
+        "app": [
+          "appionic-eebd7"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "appionic-eebd7"
+  }
+}
